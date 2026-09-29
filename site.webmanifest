@@ -1,0 +1,8 @@
+{
+  "name": "Somya Bharti Portfolio",
+  "short_name": "Somya Portfolio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "description": "Accessible software engineering portfolio for Somya Bharti.",
+  "lang": "en"
+}
